@@ -197,3 +197,12 @@ blockquote {
   font-size: 1rem;
   align-self: center;
 }
+
+/* FOOTER  */
+
+footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 1.8rem 0;
+}
