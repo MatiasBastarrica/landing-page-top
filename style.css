@@ -97,3 +97,39 @@ main > * {
   justify-content: center;
   align-items: center;
 }
+
+/* INFORMATION SECTION */
+
+.information-section {
+  padding: 3rem 0 4.5rem 0;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  margin-bottom: 3rem;
+}
+
+.cards-container {
+  display: flex;
+  gap: 2.5rem;
+  justify-content: center;
+}
+
+.card {
+  width: 150px;
+  text-align: center;
+  color: #1f2937;
+  line-height: 1rem;
+  font-size: 0.9rem;
+}
+
+.card-img {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+}
