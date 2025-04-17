@@ -13,3 +13,9 @@ ul {
   list-style: none;
   padding: 0;
 }
+
+/* TYPOGRAPHY */
+
+body {
+  font-family: Roboto, sans-serif;
+}
