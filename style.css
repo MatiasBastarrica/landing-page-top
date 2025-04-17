@@ -77,3 +77,20 @@ nav {
   font-weight: 900;
   align-self: flex-start;
 }
+
+main {
+  display: flex;
+  margin: 8rem 0;
+}
+
+main > * {
+  flex: 1;
+}
+
+.image-placeholder {
+  color: #e5e7eb;
+  background-color: #6d747d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
