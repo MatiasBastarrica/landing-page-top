@@ -14,6 +14,10 @@ ul {
   padding: 0;
 }
 
+button {
+  cursor: pointer;
+}
+
 /* TYPOGRAPHY */
 
 body {
@@ -157,4 +161,39 @@ blockquote {
   font-weight: 700;
   text-align: end;
   font-size: 1.5rem;
+}
+
+/* CALL TO ACTION */
+
+.cta {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 8rem;
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 10px;
+  width: 92%;
+  margin: 6rem auto;
+  font-size: 18px;
+}
+
+.cta-title {
+  font-weight: 900;
+  font-size: 25px;
+}
+
+.cta-description {
+  color: #e5e7eb;
+}
+
+.cta-btn {
+  border: none;
+  background-color: inherit;
+  color: inherit;
+  border: 3px solid #f9faf8;
+  font-weight: 900;
+  padding: 0.3rem 1.8rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  align-self: center;
 }
