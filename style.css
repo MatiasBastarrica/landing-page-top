@@ -133,3 +133,28 @@ main > * {
   border-radius: 10px;
   margin-bottom: 0.5rem;
 }
+
+/* TESTIMONIAL SECITON */
+
+.testimonial-section {
+  background-color: #e5e7eb;
+  padding: 7rem;
+  display: flex;
+  justify-content: center;
+}
+
+.testimonial-wrapper {
+  width: 50%;
+}
+
+blockquote {
+  font-size: 36px;
+  font-style: italic;
+  color: #444d59;
+}
+
+.quote-author {
+  font-weight: 700;
+  text-align: end;
+  font-size: 1.5rem;
+}
