@@ -37,6 +37,9 @@ header {
 nav {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.nav {
   display: flex;
   gap: 20px;
   padding: 24px 0;
