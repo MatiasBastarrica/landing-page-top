@@ -19,3 +19,15 @@ ul {
 body {
   font-family: Roboto, sans-serif;
 }
+
+/* HEADER AND MAIN */
+
+.header-wrapper {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+}
+
+header {
+  width: 63%;
+}
